@@ -1,0 +1,30 @@
+1 - Se o Despertador estiver ligado;
+    1 - Abrir os olhos
+    2 - Pegar o celular na mesa ao lado da cama;
+    3 - Desligar o despertador;
+    4 - Levantar;
+2 - Se o despertador não estiver ligado;
+    1 - Levantar;
+3 - Despreguiçar;
+4 - Caminhar até a porta;
+5 - Pegar a maçaneta;
+6 - Girar a maçaneta;
+7 - Abrir a porta;
+8 - Caminhar até o banheiro;
+9 - Girar a maçaneta;
+10 - Abrir a porta;
+11 - Abrir a torneira;
+12 - Pegar um pouco de água nas mãos;
+13 - Lavar o rosto com a água gelada;
+14 - Pegar a toalha de rosto;
+15 - Secar o rosto e as mãos;
+16 - Se precisar pentear os cabelos;
+    1 - Abrir o ármario
+    2 - Pegar o pente;
+    3 - Passar o pente nos cabelos;
+    4 - Guardar o pente no armário;
+    5 - Sair do Banheiro;
+    6 - Fechar a porta;
+17 - Se não precisar pentear os cabelos;
+    1 - Sair do Banheiro;
+    2 - Fechar a porta;
